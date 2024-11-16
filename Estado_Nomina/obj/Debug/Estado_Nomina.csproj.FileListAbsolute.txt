@@ -1,0 +1,7 @@
+C:\VS projects\Estado_Nomina\Estado_Nomina\bin\Debug\Estado_Nomina.exe.config
+C:\VS projects\Estado_Nomina\Estado_Nomina\bin\Debug\Estado_Nomina.exe
+C:\VS projects\Estado_Nomina\Estado_Nomina\bin\Debug\Estado_Nomina.pdb
+C:\VS projects\Estado_Nomina\Estado_Nomina\obj\Debug\Estado_Nomina.csproj.AssemblyReference.cache
+C:\VS projects\Estado_Nomina\Estado_Nomina\obj\Debug\Estado_Nomina.csproj.CoreCompileInputs.cache
+C:\VS projects\Estado_Nomina\Estado_Nomina\obj\Debug\Estado_Nomina.exe
+C:\VS projects\Estado_Nomina\Estado_Nomina\obj\Debug\Estado_Nomina.pdb
